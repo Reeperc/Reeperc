@@ -2,7 +2,9 @@
 
 <div style="display: flex; align-items: center;">
 
-<img src="https://root-me-badge.cloud.duboc.xyz/storage_clients/40f1d013e2191ce08a8fda4c745e0b14/static_badge_light.png" alt="img" height="140"  />
+<img src="https://root-me-badge.cloud.duboc.xyz/storage_clients/40f1d013e2191ce08a8fda4c745e0b14/static_badge_light.png?nocache=1" 
+     onerror="this.onerror=null; this.src='https://root-me-badge.cloud.duboc.xyz/storage_clients/40f1d013e2191ce08a8fda4c745e0b14/static_badge_light.png?nocache=' + Date.now();" 
+     alt="Badge RootMe" height="140">
   <!-- img src="https://media.giphy.com/media/hJ9ehuvqmJbrgZLAwB/giphy.gif?cid=790b76112hvqq3n8eg5tn9sxqw2ysqtsra510qm5976mwl5p&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Sticker Giphy" height="140" /> -->
   <!-- img src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif?cid=ecf05e47ok2visi6uoikp72vzsy5lbqq7k9dq5ejbkheczvq&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Sticker Giphy" height="140" / -->
   <img src="https://media.giphy.com/media/hJ9ehuvqmJbrgZLAwB/giphy.gif?cid=790b76112hvqq3n8eg5tn9sxqw2ysqtsra510qm5976mwl5p&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Sticker Giphy" height="140" />
